@@ -1,0 +1,9 @@
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\bin\Debug\netcoreapp1.1\ValidPalindrom.deps.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\bin\Debug\netcoreapp1.1\ValidPalindrom.runtimeconfig.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\bin\Debug\netcoreapp1.1\ValidPalindrom.runtimeconfig.dev.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\bin\Debug\netcoreapp1.1\ValidPalindrom.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\bin\Debug\netcoreapp1.1\ValidPalindrom.pdb
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\obj\Debug\netcoreapp1.1\ValidPalindrom.csprojResolveAssemblyReference.cache
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\obj\Debug\netcoreapp1.1\ValidPalindrom.AssemblyInfo.cs
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\obj\Debug\netcoreapp1.1\ValidPalindrom.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\ValidPalindrom\obj\Debug\netcoreapp1.1\ValidPalindrom.pdb

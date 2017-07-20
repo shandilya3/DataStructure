@@ -1,0 +1,10 @@
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\bin\Debug\netcoreapp1.1\StrStr.deps.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\bin\Debug\netcoreapp1.1\StrStr.runtimeconfig.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\bin\Debug\netcoreapp1.1\StrStr.runtimeconfig.dev.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\bin\Debug\netcoreapp1.1\StrStr.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\bin\Debug\netcoreapp1.1\StrStr.pdb
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\obj\Debug\netcoreapp1.1\StrStr.csprojResolveAssemblyReference.cache
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\obj\Debug\netcoreapp1.1\StrStr.csproj.CoreCompileInputs.cache
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\obj\Debug\netcoreapp1.1\StrStr.AssemblyInfo.cs
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\obj\Debug\netcoreapp1.1\StrStr.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\StrStr\obj\Debug\netcoreapp1.1\StrStr.pdb

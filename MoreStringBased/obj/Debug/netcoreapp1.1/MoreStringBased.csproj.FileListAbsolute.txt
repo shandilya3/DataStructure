@@ -1,0 +1,9 @@
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\bin\Debug\netcoreapp1.1\MoreStringBased.deps.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\bin\Debug\netcoreapp1.1\MoreStringBased.runtimeconfig.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\bin\Debug\netcoreapp1.1\MoreStringBased.runtimeconfig.dev.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\bin\Debug\netcoreapp1.1\MoreStringBased.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\bin\Debug\netcoreapp1.1\MoreStringBased.pdb
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\obj\Debug\netcoreapp1.1\MoreStringBased.csprojResolveAssemblyReference.cache
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\obj\Debug\netcoreapp1.1\MoreStringBased.AssemblyInfo.cs
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\obj\Debug\netcoreapp1.1\MoreStringBased.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\MoreStringBased\obj\Debug\netcoreapp1.1\MoreStringBased.pdb

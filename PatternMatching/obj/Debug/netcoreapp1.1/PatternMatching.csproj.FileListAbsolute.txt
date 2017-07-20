@@ -1,0 +1,9 @@
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.deps.json
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.runtimeconfig.json
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.runtimeconfig.dev.json
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.dll
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.pdb
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.AssemblyInfo.cs
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.dll
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.pdb
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.csprojResolveAssemblyReference.cache

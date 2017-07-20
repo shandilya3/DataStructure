@@ -1,0 +1,9 @@
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\bin\Debug\netcoreapp1.1\RotateAnArrayByKthStep.deps.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\bin\Debug\netcoreapp1.1\RotateAnArrayByKthStep.runtimeconfig.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\bin\Debug\netcoreapp1.1\RotateAnArrayByKthStep.runtimeconfig.dev.json
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\bin\Debug\netcoreapp1.1\RotateAnArrayByKthStep.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\bin\Debug\netcoreapp1.1\RotateAnArrayByKthStep.pdb
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\obj\Debug\netcoreapp1.1\RotateAnArrayByKthStep.csprojResolveAssemblyReference.cache
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\obj\Debug\netcoreapp1.1\RotateAnArrayByKthStep.AssemblyInfo.cs
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\obj\Debug\netcoreapp1.1\RotateAnArrayByKthStep.dll
+C:\Users\happy.shandilya\documents\visual studio 2017\Projects\Algorithm\RotateAnArrayByKthStep\obj\Debug\netcoreapp1.1\RotateAnArrayByKthStep.pdb
