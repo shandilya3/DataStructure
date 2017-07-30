@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\ReverseWordsInString\\ReverseWordsInString.csproj",
+      "projectUniqueName": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\ReverseWordsInString\\ReverseWordsInString.csproj",
       "projectName": "ReverseWordsInString",
-      "projectPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\ReverseWordsInString\\ReverseWordsInString.csproj",
-      "outputPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\ReverseWordsInString\\obj\\",
+      "projectPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\ReverseWordsInString\\ReverseWordsInString.csproj",
+      "outputPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\ReverseWordsInString\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

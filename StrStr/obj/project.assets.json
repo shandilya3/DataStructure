@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\StrStr\\StrStr.csproj",
+      "projectUniqueName": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\StrStr\\StrStr.csproj",
       "projectName": "StrStr",
-      "projectPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\StrStr\\StrStr.csproj",
-      "outputPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\StrStr\\obj\\",
+      "projectPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\StrStr\\StrStr.csproj",
+      "outputPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\StrStr\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

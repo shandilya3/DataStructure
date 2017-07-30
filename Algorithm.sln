@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26510.0
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "Algorithm\Algorithm.csproj", "{4E29F785-CCC6-4264-A630-0CFE4D14B2C9}"
 EndProject
@@ -20,6 +20,28 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreStringBased", "MoreStringBased\MoreStringBased.csproj", "{63498E57-3C97-42E7-B48E-48C50CC9EE69}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrStr", "StrStr\StrStr.csproj", "{675E9ABB-C408-4922-902C-A8FCE308EBAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{1475668B-F9B0-42FF-82E4-642E96198194}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dynamic Programming", "Dynamic Programming", "{AFEFE0A1-93BD-40D8-9915-B5B6E7BC8C4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{7F1B04CB-3081-4A1D-8D33-5CC2FE281811}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HashTable", "HashTable", "{1AA4532E-EE61-4F5A-A985-CADAD4C5D3D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{FBD005C2-1685-482E-A867-F6E341BA5A14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{9DF9EE65-ADE9-4AFC-896C-C3867AF00379}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BitManipulation", "BitManipulation", "{1DBB3F7B-6294-4602-9FDC-367DC2FBE6E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maths", "Maths", "{BA0B163F-7AA1-42C6-B02D-40056E70C8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairCaseFibonacci", "StairCaseFibonacci\StairCaseFibonacci.csproj", "{9549380D-4184-410A-AA8A-65A3C1CF343D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleImplementatation", "SimpleImplementatation", "{33506446-00C5-4752-8C9A-1B9331EAA15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EE975F4A-6098-4791-95CD-BB1D27DC69BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,8 +85,25 @@ Global
 		{675E9ABB-C408-4922-902C-A8FCE308EBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{675E9ABB-C408-4922-902C-A8FCE308EBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{675E9ABB-C408-4922-902C-A8FCE308EBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1475668B-F9B0-42FF-82E4-642E96198194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1475668B-F9B0-42FF-82E4-642E96198194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1475668B-F9B0-42FF-82E4-642E96198194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1475668B-F9B0-42FF-82E4-642E96198194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9549380D-4184-410A-AA8A-65A3C1CF343D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9549380D-4184-410A-AA8A-65A3C1CF343D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9549380D-4184-410A-AA8A-65A3C1CF343D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9549380D-4184-410A-AA8A-65A3C1CF343D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE975F4A-6098-4791-95CD-BB1D27DC69BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE975F4A-6098-4791-95CD-BB1D27DC69BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE975F4A-6098-4791-95CD-BB1D27DC69BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE975F4A-6098-4791-95CD-BB1D27DC69BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9549380D-4184-410A-AA8A-65A3C1CF343D} = {AFEFE0A1-93BD-40D8-9915-B5B6E7BC8C4D}
+		{33506446-00C5-4752-8C9A-1B9331EAA15E} = {7F1B04CB-3081-4A1D-8D33-5CC2FE281811}
+		{EE975F4A-6098-4791-95CD-BB1D27DC69BD} = {33506446-00C5-4752-8C9A-1B9331EAA15E}
 	EndGlobalSection
 EndGlobal

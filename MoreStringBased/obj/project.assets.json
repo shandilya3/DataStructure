@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\MoreStringBased\\MoreStringBased.csproj",
+      "projectUniqueName": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\MoreStringBased\\MoreStringBased.csproj",
       "projectName": "MoreStringBased",
-      "projectPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\MoreStringBased\\MoreStringBased.csproj",
-      "outputPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\MoreStringBased\\obj\\",
+      "projectPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\MoreStringBased\\MoreStringBased.csproj",
+      "outputPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\MoreStringBased\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\Algorithm\\Algorithm.csproj",
+      "projectUniqueName": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\Algorithm\\Algorithm.csproj",
       "projectName": "Algorithm",
-      "projectPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\Algorithm\\Algorithm.csproj",
-      "outputPath": "C:\\Users\\happy.shandilya\\documents\\visual studio 2017\\Projects\\Algorithm\\Algorithm\\obj\\",
+      "projectPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\Algorithm\\Algorithm.csproj",
+      "outputPath": "C:\\Users\\happy.shandilya\\Documents\\Visual Studio 2017\\Projects\\Algorithm\\Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
